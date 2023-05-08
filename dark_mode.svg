@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 0 months, 8 days</tspan>
 <tspan x="370" y="130" class="keyColor">Collge</tspan>: <tspan class="valueColor">Guru Nanak College, Velachery</tspan><tspan class="commentColor"></tspan>
 <tspan x="370" y="150" class="keyColor">Department</tspan>: <tspan class="valueColor">Computer Science</tspan><tspan class="commentColor"></tspan>
-<tspan x="370" y="170" class="keyColor"></tspan>: <tspan class="valueColor">Graducate in 2023</tspan>
+<tspan x="370" y="170" class="keyColor">Graducate in</tspan>: <tspan class="valueColor"> 2023</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, Php </tspan>
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">TAmil, English</tspan>
