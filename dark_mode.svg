@@ -56,10 +56,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="350">——————</tspan>
 <tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">anandasok1523@gmail.com</tspan>
 <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">anand-asok-1931a4216</tspan>
-<!-- <tspan x="370" y="410" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="410" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="430">——————</tspan>
 <tspan x="370" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">65</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">99</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,669  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">117</tspan>
-<tspan x="370" y="470" class="keyColor">Lines of Code Written by Me</tspan>: <tspan class="valueColor">403,163</tspan> (<tspan class="addColor">466,034++</tspan>, <tspan class="delColor">62,871--</tspan>) --> -->
+<tspan x="370" y="470" class="keyColor">Lines of Code Written by Me</tspan>: <tspan class="valueColor">403,163</tspan> (<tspan class="addColor">466,034++</tspan>, <tspan class="delColor">62,871--</tspan>)
 </text>
 
 </svg>
