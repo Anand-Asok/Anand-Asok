@@ -11,10 +11,10 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                    ..^~^!!!^.                    </tspan>
-<tspan x="15" y="50">               :~7JPGB###&&&#BP?7~.               </tspan>
-<tspan x="15" y="70">             ~YB###&#&######&&&&&&G?^             </tspan>
-<tspan x="15" y="90">           .5#########&###########&&#5.           </tspan>
+<tspan x="15" y="30">                    ..^~^!!!^.                     </tspan>
+<tspan x="15" y="50">               :~7JPGB###&&&#BP?7~.                </tspan>
+<tspan x="15" y="70">             ~YB###&#&######&&&&&&G?^              </tspan>
+<tspan x="15" y="90">           .5#########&###########&&#5.            </tspan>
 <tspan x="15" y="110">           5&#B###########&##&#####&#&Y           </tspan>
 <tspan x="15" y="130">           G&##BGGGP5PPBBBBB#&#####&&&Y           </tspan>
 <tspan x="15" y="150">           5&#G5YJ?77777777?JY5PGB#&&#~           </tspan>
