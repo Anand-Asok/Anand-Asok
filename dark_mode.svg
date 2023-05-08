@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">           .......    . ....         .. .                  </tspan>
+<tspan x="15" y="50">         .....  .....   .....        ..    ..              </tspan>
+<tspan x="15" y="70">       ..... ..  .  ..     .    ..    .  . .. .            </tspan>
+<tspan x="15" y="90">      .. .. .......... . . . . ..  ..   .    . .           </tspan>
+<tspan x="15" y="110">     .. .......        ......  ..   . ....   .. .         </tspan>
+<tspan x="15" y="130">     .. ... .......:::.:. .       . ...  ..    .          </tspan>
+<tspan x="15" y="150">        ...:^!7?JYY555YY?!!~77!~:.. .. ...      .         </tspan>
+<tspan x="15" y="170">      .. .^7???YY5PPPPPPGGGGPPPP5YJ7!~:::.                </tspan>
+<tspan x="15" y="190">      .. :7??7?JY5PPGGGGGGGGGGGGPP55YJ?77~.    .          </tspan>
+<tspan x="15" y="210">      ...:!??77?J55PPPPPGGGGPPP55YYYJJ?777~..  .          </tspan>
+<tspan x="15" y="230">       . .!77?7?JY555PPPPGGGPPPP5YJJJJ?7777^.  .          </tspan>
+<tspan x="15" y="250">       ..^7777?JYPGGGGGGGGGGGGBBGG5YYJ?77777: .           </tspan>
+<tspan x="15" y="270">        .!~:.:~~!7?Y5PGGGGGGGGG5YJ?77!^::~7?~ .           </tspan>
+<tspan x="15" y="290">    .^. .7::::......:~?YPPPPY?^.....::^^^^!?~    :.       </tspan>
+<tspan x="15" y="310">    !J5J~777~^~~...!!!7?J5PY?7!^~^:::~~!7??7!.^7JJ~       </tspan>
+<tspan x="15" y="330">    !JPJ!7?7~~?J~^!5YJY?J5P5JJ??5Y::!Y~^!JJ?!:?PPJ!       </tspan>
+<tspan x="15" y="350">    :JY?!?JY555YYYYYYYJ?JPP5YJJ55YYY55555YYJ7^7JJJ:       </tspan>
+<tspan x="15" y="370">    :JY?!?JY555YYYYYYYJ?JPP5YJJ55YYY55555YYJ7^7JJJ:       </tspan>
+<tspan x="15" y="390">    .???!7J5GGGGGGPPYJJJ5GGPYYY5PGGGGBBBGPY?7~YY7?.       </tspan>
+<tspan x="15" y="410">    .777~7?YPPGGGGP5YYYPGBBGP55YPGGGGBBGP5J?!!777!        </tspan>
+<tspan x="15" y="430">     !??!~7?JY5PGGP5Y5JJPGG5YPPYPGGGGGP5YJ?7^!??7.        </tspan>
+<tspan x="15" y="450">      .. .!7?JY5PGPP5J?Y5555YJJ5GGGGP5YJJ?7~  ..          </tspan>
+<tspan x="15" y="470">          ^7??JYYYJJJ??J5PP5J??JY55YYYJJ?7!:              </tspan>
+<tspan x="15" y="490">          .!77??77!7???JY555YJ?77777JJJ??7^               </tspan>
+<tspan x="15" y="510">            :!77?77?!!7JY5555Y?777???J???7~               </tspan>
+<tspan x="15" y="520">             .~!7?JJJYYJJ??JY5555YY?7!~^~!                </tspan>
+<tspan x="15" y="550">              ~~~7?JY5PGGPPGGGGP5J?7~^^!?!                </tspan>
+<tspan x="15" y="570">              ??~^~!7?JJJ??JYYJ?7!~::~?JJ7.               </tspan>
+<tspan x="15" y="590">             :JYY?!^^^~~~^^~~~^^^^^!?JYYJ?^               </tspan>
+<tspan x="15" y="610">           ~.^JY55Y?77!!!!!!7???????Y555YJ~.!:            </tspan>
+<tspan x="15" y="630">         .Y7.~JY555YJJJJY55PP5YYJJJY5P55YJ!.7B!           </tspan>
+<tspan x="15" y="650">        .GP~.!JY5555YJJYYYY5555YYJY5PP55YJ!PB#B57^.       </tspan>
+<tspan x="15" y="670">      .!GB^..~JY5555YJJY555PPPP55YY5PP55Y7P#&&&####5^.    </tspan>
+</text>
+
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">Anandasok A</tspan>
+<tspan x="370" y="50">——————</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 10 months, 2 days</tspan>
+<tspan x="370" y="110" class="keyColor">College</tspan>: <tspan class="valueColor">Guru Nanak College, Velachery</tspan><tspan class="commentColor"> #RIT</tspan>
+<tspan x="370" y="130" class="keyColor">Dept</tspan>: <tspan class="valueColor">Computer Science</tspan><tspan class="commentColor"> #CPET</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS,</tspan>
+<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Tamil, English</tspan>
+<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
+<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="370" y="330" class="keyColor">Contact</tspan>:
+<tspan x="370" y="350">——————</tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">anandasok1523@gmailcom</tspan>
+<tspan x="370" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">AndrewIsntCool#5829</tspan>
+<tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">anand-asok-1931a4216</tspan>
+<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="470">——————</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">65</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">99</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,669  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">117</tspan>
+<tspan x="370" y="510" class="keyColor">Lines of Code Written by Me</tspan>: <tspan class="valueColor">403,163</tspan> (<tspan class="addColor">466,034++</tspan>, <tspan class="delColor">62,871--</tspan>)
+</text>
+
+</svg>
