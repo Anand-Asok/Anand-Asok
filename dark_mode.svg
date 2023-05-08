@@ -11,7 +11,7 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">           .......    . ....         .. .                  </tspan>
+<!-- <tspan x="15" y="30">           .......    . ....         .. .                  </tspan>
 <tspan x="15" y="50">         .....  .....   .....        ..    ..              </tspan>
 <tspan x="15" y="70">       ..... ..  .  ..     .    ..    .  . .. .            </tspan>
 <tspan x="15" y="90">      .. .. .......... . . . . ..  ..   .    . .           </tspan>
@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="610">           ~.^JY55Y?77!!!!!!7???????Y555YJ~.!:            </tspan>
 <tspan x="15" y="630">         .Y7.~JY555YJJJJY55PP5YYJJJY5P55YJ!.7B!           </tspan>
 <tspan x="15" y="650">        .GP~.!JY5555YJJYYYY5555YYJY5PP55YJ!PB#B57^.       </tspan>
-<tspan x="15" y="670">      .!GB^..~JY5555YJJY555PPPP55YY5PP55Y7P#&&&####5^.    </tspan>
+<tspan x="15" y="670">      .!GB^..~JY5555YJJY555PPPP55YY5PP55Y7P#&&&####5^.    </tspan> -->
 </text>
 
 <text x="370" y="30" fill="#c9d1d9">
